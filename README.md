@@ -6,9 +6,9 @@ The First Story of AnarkoHayko game
 
 The First Story of AnarkoHayko game
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2023-2024 Masscollabs Services
 
-Copyright (C) 2023 anarkohayko and contributors
+Copyright (C) 2023-2024 anarkohayko and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
